@@ -1,6 +1,6 @@
 ### Hi there :wave:, my name is Ziynet
 
-Skills: Phyton / C / C++ / SQL 
+Skills: Python / C / C++ / SQL 
 
 - :seedling: I’m currently learning HTML/ CSS 
 
