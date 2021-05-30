@@ -7,7 +7,6 @@ Skills: Phyton / C / C++ / SQL
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ziynetk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ziynet-ku%C5%9Faslan-7316a41a9/)
 
-https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif'
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziynetk)](https://github.com/anuraghazra/github-readme-stats)
 
