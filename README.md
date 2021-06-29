@@ -1,4 +1,4 @@
-### Hi there :wave:, my name is Ziynet
+### Hi there :wave:,I am Ziynet
 
 Skills: Python / C / C++ / SQL 
 
