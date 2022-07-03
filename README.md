@@ -2,7 +2,7 @@
 
 Skills: Python / C / C++ / SQL 
 
-- :seedling: I’m currently learning HTML/ CSS 
+- :seedling: I’m currently learning HTML / CSS / JS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ziynetk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ziynet-ku%C5%9Faslan-7316a41a9/)
