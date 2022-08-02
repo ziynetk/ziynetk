@@ -7,10 +7,7 @@ Skills: Python / C / C++ / SQL
 
 [<img src='https://cdn-icons-png.flaticon.com/512/87/87390.png' alt='github' height='40'>](https://www.instagram.com/madame.coder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ziynet-ku%C5%9Faslan-7316a41a9/)
 
-
-
-
-<a ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ziynetk&show_icons=true)>    </a> <a[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziynetk)](https://github.com/anuraghazra/github-readme-stats)</a>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ziynetk&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziynetk)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Ecole 42 Projects Progress
 | No | Project | Status  |  | No  | Project | Status |  | No | Project     | Status |
