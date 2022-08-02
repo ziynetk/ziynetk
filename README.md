@@ -10,7 +10,7 @@ Skills: Python / C / C++ / SQL
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ziynetk&show_icons=true) /| :---: | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziynetk)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ziynetk&show_icons=true) :---: [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziynetk)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Ecole 42 Projects Progress
 | No | Project | Status  |  | No  | Project | Status |  | No | Project     | Status |
