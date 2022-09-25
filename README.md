@@ -1,8 +1,8 @@
 ### Ziynet KUŞASLAN
 
-Skills: Python / C / C++ / SQL 
+Skills: Python / C / C++ / SQL / HTML / CSS
 
-- :seedling: I’m currently learning HTML / CSS / JS
+- :seedling: I’m currently learning Swift
 
 
 [<img src='https://cdn-icons-png.flaticon.com/512/87/87390.png' alt='github' height='40'>](https://www.instagram.com/madame.coder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ziynet-ku%C5%9Faslan-7316a41a9/)
