@@ -18,7 +18,7 @@ Skills: Python / C / C++ / SQL / HTML / CSS
 | 4  | get_next_line   | [![zkusasla's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl8hlabdi00060gmgrb29ddwf/project/2697825)](https://github.com/ziynetk/Ecole42_GetNextLine) |  | 12 | CPP Module 01   | 🔒   |  | 22B | webserv | 🔒   |
 | 5A  | FdF   | 🔒 |  | 13 | CPP Module 02   | 🔒   |  | 23 | inception | 🔒   |
 | 5B  | so_long   | 🔒 |  | 14 | CPP Module 03   | 🔒   |  | 24 | ft_transcendence | 🔒   |
-| 6A  | minitalk   | [![zkusasla's 42 minitalk_Score](https://github.com/ziynetk/Ecole42_Minitalk) |  | 15 | CPP Module 04   | 🔒   |  | A | Exam Rank 02 |  🔒|
+| 6A  | minitalk   | [![zkusasla's 42 mini_talk_Score](https://github.com/ziynetk/Ecole42_Minitalk) |  | 15 | CPP Module 04   | 🔒   |  | A | Exam Rank 02 |  🔒|
 | 6B  | pipex   | 🔒 |  | 16 | CPP Module 05   | 🔒   |  | B | Exam Rank 03 | 🔒  |
 | 7  | push_swap   | 🔒 |  | 17 | CPP Module 06   | 🔒   |  | C | Exam Rank 04 |  🔒  |
 | 8  | minishell   | 🔒 |  | 18 | CPP Module 07   | 🔒   |  | D | Exam Rank 05 |  🔒  |
