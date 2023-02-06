@@ -9,6 +9,8 @@ Skills: Python / C / C++ / SQL / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ziynetk&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziynetk)](https://github.com/anuraghazra/github-readme-stats)
 
+![Profile views](https://gpvc.arturio.dev/ziynetk)
+
 ## Ecole 42 Projects Progress
 | No | Project | Status  |  | No  | Project | Status |  | No | Project     | Status |
 | :---:  | :---:   | :---:  | :---:  | :---:  | :---:    | :---:    | :---:  | :---:  | :---:  | :---:   |
@@ -24,4 +26,4 @@ Skills: Python / C / C++ / SQL / HTML / CSS
 | 8  | minishell   | 🔒 |  | 18 | CPP Module 07   | 🔒   |  | D | Exam Rank 05 |  🔒  |
 | 9  | philosphers   | 🔒 |  | 19 | CPP Module 08   | 🔒   |  | E | Exam Rank 06 |  🔒  |
 
-![Profile views](https://gpvc.arturio.dev/ziynetk)
+
